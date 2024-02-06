@@ -1,410 +1,410 @@
-Resort ID,Rate,Stars
-1,4.9,5.0
-2,4.8,5.0
-3,4.8,5.0
-4,4.8,5.0
-5,4.8,5.0
-6,4.7,5.0
-7,4.7,5.0
-8,4.7,5.0
-9,4.7,4.0
-10,4.7,5.0
-11,4.6,5.0
-12,4.6,5.0
-13,4.5,4.0
-14,4.5,5.0
-15,4.5,4.0
-16,4.5,3.0
-17,4.4,5.0
-18,4.4,4.0
-19,4.4,5.0
-20,4.4,4.0
-21,4.3,4.0
-22,4.3,3.0
-23,4.2,4.0
-24,4.2,5.0
-25,4.2,3.0
-26,4.2,5.0
-27,4.2,4.0
-28,4.2,4.0
-29,4.1,4.0
-30,4.1,4.0
-31,4.1,4.0
-32,4.1,4.0
-33,4.0,3.0
-34,4.0,4.0
-35,4.0,4.0
-36,4.0,4.0
-37,4.0,3.0
-38,4.0,2.0
-39,4.0,5.0
-40,4.0,4.0
-41,4.0,4.0
-42,4.0,4.0
-43,3.9,3.0
-44,3.9,4.0
-45,3.9,3.0
-46,3.9,4.0
-47,3.9,4.0
-48,3.9,4.0
-49,3.8,5.0
-50,3.8,3.0
-51,3.8,3.0
-52,3.8,4.0
-53,3.8,4.0
-54,3.8,3.0
-55,3.8,3.0
-56,3.7,3.0
-57,3.7,4.0
-58,3.7,4.0
-59,3.7,5.0
-60,3.7,2.0
-61,3.7,4.0
-62,3.7,3.0
-63,3.7,3.0
-64,3.7,4.0
-65,3.7,3.0
-66,3.7,4.0
-67,3.7,2.0
-68,3.7,3.0
-69,3.7,3.0
-70,3.7,3.0
-71,3.7,3.0
-72,3.7,4.0
-73,3.7,4.0
-74,3.6,3.0
-75,3.6,3.0
-76,3.6,2.0
-77,3.6,3.0
-78,3.6,2.0
-79,3.6,5.0
-80,3.6,5.0
-81,3.6,3.0
-82,3.5,4.0
-83,3.5,3.0
-84,3.5,3.0
-85,3.5,4.0
-86,3.5,2.0
-87,3.5,3.0
-88,3.5,4.0
-89,3.4,2.0
-90,3.4,3.0
-91,3.4,2.0
-92,3.4,3.0
-93,3.3,2.0
-94,3.3,2.0
-95,3.3,2.0
-96,3.3,4.0
-97,3.3,3.0
-98,3.3,3.0
-99,3.3,3.0
-100,3.3,3.0
-101,3.3,2.0
-102,3.3,3.0
-104,3.2,5.0
-105,3.2,2.0
-106,3.2,2.0
-107,3.2,2.0
-108,3.2,2.0
-112,3.0,2.0
-113,3.0,1.0
-114,3.0,2.0
-115,3.0,2.0
-116,3.0,2.0
-123,2.9,3.0
-124,2.9,3.0
-125,2.9,2.0
-126,2.9,2.0
-134,2.8,2.0
-135,2.8,3.0
-141,2.7,1.0
-142,2.7,1.0
-143,1.0,2.0
-144,1.0,1.0
-145,1.0,1.0
-146,1.0,1.0
-147,1.0,1.0
-148,1.0,1.0
-149,2.0,1.0
-150,1.0,1.0
-434,4.7,5.0
-435,4.7,5.0
-436,4.5,5.0
-437,4.5,5.0
-438,4.4,4.0
-439,4.4,5.0
-440,4.4,5.0
-441,4.3,4.0
-442,4.3,5.0
-443,4.3,5.0
-444,4.3,5.0
-445,4.2,5.0
-446,4.2,5.0
-447,4.2,5.0
-448,4.2,5.0
-449,4.2,5.0
-450,4.1,5.0
-451,4.0,4.0
-452,4.0,4.0
-453,4.0,3.0
-454,3.9,4.0
-455,3.8,3.0
-456,3.8,4.0
-457,3.8,4.0
-458,3.8,5.0
-459,3.8,4.0
-460,3.8,4.0
-462,3.7,4.0
-463,3.7,4.0
-464,3.7,5.0
-465,3.7,4.0
-466,3.7,5.0
-467,3.6,3.0
-468,3.6,4.0
-469,3.6,5.0
-470,3.6,5.0
-471,3.6,3.0
-472,3.5,3.0
-473,3.5,4.0
-474,3.5,4.0
-478,3.4,2.0
-480,3.3,4.0
-485,3.2,4.0
-492,3.1,3.0
-531,1.0,3.0
-532,1.0,1.0
-767,4.7,4.0
-768,4.6,5.0
-769,4.5,4.0
-770,4.4,4.0
-771,4.3,4.0
-772,4.3,4.0
-773,4.3,3.0
-774,4.3,5.0
-775,4.3,3.0
-776,4.2,4.0
-777,4.2,4.0
-778,4.2,4.0
-779,4.2,5.0
-780,4.2,4.0
-781,4.2,4.0
-782,4.2,4.0
-783,4.2,5.0
-784,4.1,3.0
-785,4.1,5.0
-786,4.0,3.0
-787,4.0,3.0
-788,4.0,3.0
-789,4.0,3.0
-790,4.0,4.0
-791,4.0,5.0
-792,4.0,5.0
-793,4.0,3.0
-794,3.8,3.0
-795,3.8,3.0
-796,3.8,3.0
-797,3.7,3.0
-798,3.7,3.0
-799,3.7,3.0
-800,3.7,3.0
-801,3.7,4.0
-802,3.7,4.0
-803,3.7,4.0
-804,3.6,3.0
-805,3.6,3.0
-808,3.5,2.0
-809,3.5,4.0
-811,3.4,2.0
-816,3.2,3.0
-827,3.0,2.0
-841,2.9,2.0
-872,2.7,1.0
-873,1.0,1.0
-1058,4.6,5.0
-1059,4.6,5.0
-1060,4.4,5.0
-1061,4.4,5.0
-1062,4.3,5.0
-1063,4.2,5.0
-1064,4.2,5.0
-1065,4.1,5.0
-1066,4.1,5.0
-1067,4.1,5.0
-1068,4.1,4.0
-1069,4.0,4.0
-1070,4.0,4.0
-1071,4.0,4.0
-1082,3.7,4.0
-1083,3.7,3.0
-1084,3.7,5.0
-1085,3.7,4.0
-1086,3.6,4.0
-1091,3.5,5.0
-1164,2.7,1.0
-1165,1.0,1.0
-1166,1.0,1.0
-1309,4.4,5.0
-1310,3.7,3.0
-1311,3.5,5.0
-1312,4.3,3.0
-1313,4.0,3.0
-1314,4.0,3.0
-1315,4.0,2.0
-1316,3.3,2.0
-1394,4.3,4.0
-1395,4.2,4.0
-1396,4.0,4.0
-1397,4.0,5.0
-1430,4.2,4.0
-1431,3.7,4.0
-1432,3.6,3.0
-1433,3.1,3.0
-1434,3.0,3.0
-1450,4.2,4.0
-1475,4.2,4.0
-1476,4.0,5.0
-1477,4.0,3.0
-1478,3.9,4.0
-1479,3.8,3.0
-1480,3.7,3.0
-1481,3.7,3.0
-1482,3.6,2.0
-1483,3.5,4.0
-1484,3.3,2.0
-1485,3.3,2.0
-1488,3.1,1.0
-1587,4.0,4.0
-1588,3.9,3.0
-1589,3.9,3.0
-1590,3.8,3.0
-1591,3.7,3.0
-1592,3.7,2.0
-1593,3.6,3.0
-1594,3.4,4.0
-1595,3.3,3.0
-1596,3.3,4.0
-1705,4.0,5.0
-1706,3.5,3.0
-1707,3.3,2.0
-1708,3.1,1.0
-1831,3.9,3.0
-1832,3.5,2.0
-1833,3.0,2.0
-1834,2.9,3.0
-1835,2.7,1.0
-1840,3.8,4.0
-1841,3.7,3.0
-1842,3.7,3.0
-1843,3.7,4.0
-1844,3.7,2.0
-1845,3.7,3.0
-1846,3.7,3.0
-1847,3.7,3.0
-1848,3.6,3.0
-1849,3.5,2.0
-1850,3.5,3.0
-1851,3.5,3.0
-1852,3.4,3.0
-1853,3.3,2.0
-1854,3.3,2.0
-1855,3.3,1.0
-1856,3.3,2.0
-1857,3.3,3.0
-1858,3.3,2.0
-1859,3.2,2.0
-1860,3.2,1.0
-1861,3.2,2.0
-1862,3.2,1.0
-1863,3.1,1.0
-1864,3.1,2.0
-1865,3.0,2.0
-1866,3.0,2.0
-1867,3.0,3.0
-1868,3.0,2.0
-1869,2.9,2.0
-1870,2.9,2.0
-1873,2.8,2.0
-1875,2.7,2.0
-1876,2.7,2.0
-1877,2.7,2.0
-1878,2.7,1.0
-1879,1.0,2.0
-1880,1.0,2.0
-1881,1.0,2.0
-1882,1.0,2.0
-1883,1.0,2.0
-1884,1.0,2.0
-1885,2.0,2.0
-1886,1.0,1.0
-1887,1.0,1.0
-1888,1.0,1.0
-1889,1.0,1.0
-1890,1.0,1.0
-1891,1.0,1.0
-1892,1.0,1.0
-1893,1.0,1.0
-1894,1.0,1.0
-1895,1.0,1.0
-1896,1.0,1.0
-1897,1.0,1.0
-1898,1.0,1.0
-1899,1.0,1.0
-1900,1.0,1.0
-1901,1.0,1.0
-1902,1.0,1.0
-1903,1.0,1.0
-1904,1.0,1.0
-1905,1.0,1.0
-1906,1.0,1.0
-1907,1.0,1.0
-1908,1.0,1.0
-1909,1.0,1.0
-1910,1.0,1.0
-1911,1.0,1.0
-1912,1.0,1.0
-1913,1.0,1.0
-1914,1.0,1.0
-1915,1.0,1.0
-1916,1.0,1.0
-1917,1.0,1.0
-1918,1.0,1.0
-1919,1.0,1.0
-1920,1.0,1.0
-1921,2.0,1.0
-1922,1.0,1.0
-2555,3.7,3.0
-2556,3.1,3.0
-2571,3.7,2.0
-2572,3.3,2.0
-2573,3.2,1.0
-2578,1.0,2.0
-2579,1.0,1.0
-2872,3.6,3.0
-2873,3.5,3.0
-2921,3.6,4.0
-2925,3.6,2.0
-2926,3.3,1.0
-2927,2.8,1.0
-2928,2.8,4.0
-2932,2.7,2.0
-2933,1.0,2.0
-2934,1.0,2.0
-2935,1.0,1.0
-2936,1.0,1.0
-3179,3.6,4.0
-3180,3.2,2.0
-3184,3.5,3.0
-3243,3.2,1.0
-3244,2.7,1.0
-3245,1.0,1.0
-3246,1.0,1.0
-3285,3.0,2.0
-3393,1.0,2.0
-3394,1.0,1.0
-3395,1.0,1.0
-3396,1.0,1.0
-3397,1.0,1.0
-3487,2.7,1.0
-3498,1.0,1.0
-3499,1.0,1.0
-3510,1.0,1.0
+Resort ID,NameResort,Rate,Stars
+1,KitzSki – Kitzbühel/Kirchberg,4.9,5.0
+2,Ischgl/Samnaun – Silvretta Arena,4.8,5.0
+3,SkiWelt Wilder Kaiser-Brixental,4.8,5.0
+4,Ski Arlberg,4.8,5.0
+5,Serfaus-Fiss-Ladis,4.8,5.0
+6,Saalbach Hinterglemm Leogang Fieberbrunn (Skicircus),4.7,5.0
+7,Kaltenbach – Hochzillertal/Hochfügen (SKi-optimal),4.7,5.0
+8,Zillertal Arena – Zell am Ziller/Gerlos/Königsleiten/Hochkrimml,4.7,5.0
+9, Schladming – Planai/​Hochwurzen/​Hauser Kaibling/​Reiteralm (4-Berge-Skischaukel),4.7,4.0
+10,Sölden,4.7,5.0
+11,Silvretta Montafon,4.6,5.0
+12,Mayrhofen – Penken/Ahorn/Rastkogel/Eggalm,4.6,5.0
+13, Obertauern,4.5,4.0
+14,Gurgl – Obergurgl-Hochgurgl,4.5,5.0
+15, Hochkönig – Maria Alm/Dienten/Mühlbach,4.5,4.0
+16,. Snow Space Salzburg – Flachau/Wagrain/St. Johann-Alpendorf,4.5,3.0
+17,Schmittenhöhe – Zell am See,4.4,5.0
+18, Wildkogel – Neukirchen/Bramberg,4.4,4.0
+19,Kitzsteinhorn/Maiskogel – Kaprun,4.4,5.0
+20, Bad Gastein/Bad Hofgastein – Schlossalm/Angertal/Stubnerkogel,4.4,4.0
+21, Katschberg,4.3,4.0
+22,. Turracher Höhe,4.3,3.0
+23, Ski Juwel Alpbachtal Wildschönau,4.2,4.0
+24,Damüls Mellau,4.2,5.0
+25,. Steinplatte/Winklmoosalm – Waidring/Reit im Winkl,4.2,3.0
+26,Großglockner Resort Kals-Matrei,4.2,5.0
+27, Nauders am Reschenpass – Bergkastel,4.2,4.0
+28, Nassfeld – Hermagor,4.2,4.0
+29, Kühtai,4.1,4.0
+30, Stubai Glacier (Stubaier Gletscher),4.1,4.0
+31, Großarltal/Dorfgastein,4.1,4.0
+32, Zauchensee/Flachauwinkl,4.1,4.0
+33,. Almenwelt Lofer,4.0,3.0
+34, Lermoos – Grubigstein,4.0,4.0
+35, Golm,4.0,4.0
+36, Hintertux Glacier (Hintertuxer Gletscher),4.0,4.0
+37,. St. Johann in Tirol/Oberndorf – Harschbichl,4.0,3.0
+38,. Radstadt/Altenmarkt,4.0,2.0
+39,Tauplitz – Bad Mitterndorf,4.0,5.0
+40, Hochzeiger – Jerzens,4.0,4.0
+41, Dachstein West – Gosau/Russbach/Annaberg,4.0,4.0
+42, Galtür – Silvapark,4.0,4.0
+43,. Sillian – Thurntaler (Hochpustertal),3.9,3.0
+44, Hochoetz – Oetz,3.9,4.0
+45,. Spieljoch – Fügen,3.9,3.0
+46, Kreischberg,3.9,4.0
+47, Fellhorn/Kanzelwand – Oberstdorf/Riezlern,3.9,4.0
+48, Hinterstoder – Höss,3.9,4.0
+49,Axamer Lizum,3.8,5.0
+50,. St. Jakob im Defereggental – Brunnalm,3.8,3.0
+51,. Pitztal Glacier (Pitztaler Gletscher),3.8,3.0
+52, Bad Kleinkirchheim,3.8,4.0
+53, Riesneralm – Donnersbachwald,3.8,4.0
+54,. Brandnertal – Brand/Bürserberg,3.8,3.0
+55,. Ehrwalder Alm – Ehrwald,3.8,3.0
+56,. Schlick 2000 – Fulpmes,3.7,3.0
+57, See,3.7,4.0
+58, Loser – Altaussee,3.7,4.0
+59,Kaunertal Glacier (Kaunertaler Gletscher),3.7,5.0
+60,. Filzmoos,3.7,2.0
+61, Ifen,3.7,4.0
+62,. Christlum – Achenkirch,3.7,3.0
+63,. Bergeralm – Steinach am Brenner,3.7,3.0
+64, Moelltal Glacier (Mölltaler Gletscher),3.7,4.0
+65,. Lachtal,3.7,3.0
+66, Gargellen,3.7,4.0
+67,. Berwang/Bichlbach/Rinnen,3.7,2.0
+68,. Rauriser Hochalmbahnen – Rauris,3.7,3.0
+69,. Grosseck/Speiereck – Mauterndorf/St. Michael,3.7,3.0
+70,. Flachauwinkl/Kleinarl (Shuttleberg),3.7,3.0
+71,. Gerlitzen,3.7,3.0
+72, Kappl,3.7,4.0
+73, Diedamskopf – Schoppernau,3.7,4.0
+74,. Zettersfeld – Lienz,3.6,3.0
+75,. Glungezer – Tulfes,3.6,3.0
+76,. Hochficht,3.6,2.0
+77,. Patscherkofel – Innsbruck-Igls,3.6,3.0
+78,. Mönichkirchen/Mariensee,3.6,2.0
+79,Sportgastein,3.6,5.0
+80,Grossglockner Heiligenblut,3.6,5.0
+81,. Rosshütte – Seefeld,3.6,3.0
+82, Sonnenkopf – Klösterle,3.5,4.0
+83,. Hochkössen (Unterberghorn) – Kössen,3.5,3.0
+84,. Vent,3.5,3.0
+85, Weissee Gletscherwelt – Uttendorf,3.5,4.0
+86,. Werfenweng,3.5,2.0
+87,. Venet – Landeck/Zams/Fliess,3.5,3.0
+88, Rifflsee,3.5,4.0
+89,. Biberwier – Marienberg,3.4,2.0
+90,. Walmendingerhorn/Heuberg – Mittelberg/Hirschegg,3.4,3.0
+91,. Muttereralm – Mutters/Götzens,3.4,2.0
+92,. Wurzeralm – Spital am Pyhrn,3.4,3.0
+93,. Ramsau am Dachstein – Rittisberg,3.3,2.0
+94,. Jöchelspitze – Bach,3.3,2.0
+95,. Grebenzen – St. Lambrecht,3.3,2.0
+96, Ankogel – Mallnitz,3.3,4.0
+97,. Feuerkogel – Ebensee,3.3,3.0
+98,. Fanningberg,3.3,3.0
+99,. Laterns – Gapfohl,3.3,3.0
+100,. Buchensteinwand (Pillersee) – St. Ulrich am Pillersee/St. Jakob in Haus/Hochfilzen,3.3,3.0
+101,. Monte Popolo – Eben im Pongau,3.3,2.0
+102,. Hahnenkamm – Höfen/Reutte,3.3,3.0
+104,Nordkette – Innsbruck,3.2,5.0
+105,. Rangger Köpfl – Oberperfuss,3.2,2.0
+106,. Zauberberg Semmering,3.2,2.0
+107,. Gschwandtkopf – Seefeld,3.2,2.0
+108,. Jungholz,3.2,2.0
+112,. Kristberg – Silbertal,3.0,2.0
+113,. Reith bei Kitzbühel,3.0,1.0
+114,. Schetteregg – Egg,3.0,2.0
+115,. Neunerköpfle – Tannheim,3.0,2.0
+116,. Füssener Jöchle – Grän,3.0,2.0
+123,. Dachstein Glacier (Dachsteingletscher),2.9,3.0
+124,. Hochstein – Lienz,2.9,3.0
+125,. Karwendel Bergbahn (Zwölferkopf) – Pertisau,2.9,2.0
+126,. Rofan – Maurach,2.9,2.0
+134,. Kelchsau,2.8,2.0
+135,. Kellerjoch – Schwaz,2.8,3.0
+141,. Burglift – Stans,2.7,1.0
+142,. Heutal – Unken,2.7,1.0
+143,. Tirolina (Haltjochlift) – Hinterthiersee,1.0,2.0
+144,. Hohe Wand Wiese – Vienna (High Hills),1.0,1.0
+145,. Trins,1.0,1.0
+146,. Alfaierlift – Gschnitz,1.0,1.0
+147,. Archenstadel – Rinn,1.0,1.0
+148,. Kramsach,1.0,1.0
+149,. Sternstein – Bad Leonfelden,2.0,1.0
+150,. Schneeberglifte – Mitterland (Thiersee),1.0,1.0
+434,Arosa Lenzerheide,4.7,5.0
+435,St. Moritz – Corviglia,4.7,5.0
+436,Laax/Flims/Falera,4.5,5.0
+437,Zermatt/Breuil-Cervinia/Valtournenche – Matterhorn,4.5,5.0
+438, Aletsch Arena – Riederalp/Bettmeralp/Fiesch Eggishorn,4.4,4.0
+439,Andermatt/Oberalp/Sedrun,4.4,5.0
+440,Adelboden/Lenk – Chuenisbärgli/Silleren/Hahnenmoos/Metsch,4.4,5.0
+441, Scuol – Motta Naluns,4.3,4.0
+442,Titlis – Engelberg,4.3,5.0
+443,4 Vallées – Verbier/La Tzoumaz/Nendaz/Veysonnaz/Thyon,4.3,5.0
+444,Les Portes du Soleil – Morzine/Avoriaz/Les Gets/Châtel/Morgins/Champéry,4.3,5.0
+445,Flumserberg,4.2,5.0
+446,Obersaxen/Mundaun/Val Lumnezia,4.2,5.0
+447,Jakobshorn (Davos Klosters),4.2,5.0
+448,Kleine Scheidegg/Männlichen – Grindelwald/Wengen,4.2,5.0
+449,Parsenn (Davos Klosters),4.2,5.0
+450,Corvatsch/Furtschellas,4.1,5.0
+451, First – Grindelwald,4.0,4.0
+452, Saas-Fee,4.0,4.0
+453,. Rinderberg/Saanerslochgrat/Horneggli – Zweisimmen/Saanenmöser/Schönried/St. Stephan,4.0,3.0
+454, Stoos – Fronalpstock/Klingenstock,3.9,4.0
+455,. Hohsaas – Saas-Grund,3.8,3.0
+456, Pizol – Bad Ragaz/Wangs,3.8,4.0
+457, Hoch-Ybrig – Unteriberg/Oberiberg,3.8,4.0
+458,Lauchernalp – Lötschental,3.8,5.0
+459, Meiringen-Hasliberg,3.8,4.0
+460, Brigels/Waltensburg/Andiast,3.8,4.0
+462, Elm im Sernftal,3.7,4.0
+463, Madrisa (Davos Klosters),3.7,4.0
+464,Disentis,3.7,5.0
+465, Crans-Montana,3.7,4.0
+466,Schilthorn – Mürren/Lauterbrunnen,3.7,5.0
+467,. Zuoz – Pizzet/Albanas,3.6,3.0
+468, Grüsch Danusa,3.6,4.0
+469,Gemsstock – Andermatt,3.6,5.0
+470,Diavolezza/Lagalb,3.6,5.0
+471,. Savognin,3.6,3.0
+472,. Rinerhorn (Davos Klosters),3.5,3.0
+473, Splügen – Tambo,3.5,4.0
+474, Bellwald,3.5,4.0
+478,. Grächen,3.4,2.0
+480, Bürchen/Törbel – Moosalp,3.3,4.0
+485, Vals 3000 – Dachberg,3.2,4.0
+492,. Leukerbad,3.1,3.0
+531,. Aela – Maloja,1.0,3.0
+532,. Pontresina,1.0,1.0
+767, Val Gardena (Gröden),4.7,4.0
+768,Madonna di Campiglio/Pinzolo/Folgàrida/Marilleva,4.6,5.0
+769, Kronplatz (Plan de Corones),4.5,4.0
+770, Latemar – Obereggen/Pampeago/Predazzo,4.4,4.0
+771, Klausberg – Skiworld Ahrntal,4.3,4.0
+772, 3 Zinnen Dolomites – Helm/Stiergarten/Rotwand/Kreuzbergpass,4.3,4.0
+773,. Alpe di Siusi (Seiser Alm),4.3,3.0
+774,Livigno,4.3,5.0
+775,. Alta Badia,4.3,3.0
+776, Belpiano (Schöneben)/Malga San Valentino (Haideralm),4.2,4.0
+777, Carezza,4.2,4.0
+778, Gitschberg Jochtal,4.2,4.0
+779,Ponte di Legno/Tonale/Presena Glacier/Temù (Pontedilegno-Tonale),4.2,5.0
+780, Speikboden – Skiworld Ahrntal,4.2,4.0
+781, Passo San Pellegrino/Falcade,4.2,4.0
+782, Belvedere/Col Rodella/Ciampac/Buffaure – Canazei/Campitello/Alba/Pozza di Fassa,4.2,4.0
+783,Via Lattea – Sestriere/Sauze d’Oulx/San Sicario/Claviere/Montgenèvre,4.2,5.0
+784,. Paganella – Andalo,4.1,3.0
+785,Arabba/Marmolada,4.1,5.0
+786,. San Martino di Castrozza,4.0,3.0
+787,. Racines-Giovo (Ratschings-Jaufen)/Malga Calice (Kalcheralm),4.0,3.0
+788,. Folgaria/Fiorentini,4.0,3.0
+789,. Civetta – Alleghe/Selva di Cadore/Palafavera/Zoldo,4.0,3.0
+790, Plose – Brixen (Bressanone),4.0,4.0
+791,Alagna Valsesia/Gressoney-La-Trinité/Champoluc/Frachey (Monterosa Ski),4.0,5.0
+792,Cortina d'Ampezzo,4.0,5.0
+793,. Alpe Lusia – Moena/Bellamonte,4.0,3.0
+794,. Ladurns,3.8,3.0
+795,. Monte Bondone,3.8,3.0
+796,. Alpe Cermis – Cavalese,3.8,3.0
+797,. Rosskopf (Monte Cavallo) – Sterzing (Vipiteno),3.7,3.0
+798,. Pejo 3000,3.7,3.0
+799,. Catinaccio/Ciampedie – Vigo di Fassa/Pera di Fassa,3.7,3.0
+800,. Meran 2000,3.7,3.0
+801, Val Senales Glacier (Schnalstaler Gletscher),3.7,4.0
+802, Schwemmalm,3.7,4.0
+803, Sulden am Ortler (Solda all'Ortles),3.7,4.0
+804,. Reinswald (San Martino in Sarentino),3.6,3.0
+805,. Pfelders (Moos in Passeier),3.6,3.0
+808,. Watles – Malles Venosta (Mals),3.5,2.0
+809, Bormio – Cima Bianca,3.5,4.0
+811,. Lavarone,3.4,2.0
+816,. Santa Caterina Valfurva,3.2,3.0
+827,. San Vito di Cadore,3.0,2.0
+841,. Passo dello Stelvio (Stelvio Pass),2.9,2.0
+872,. Vigiljoch (Monte San Vigilio) – Lana,2.7,1.0
+873,. Feldthurns (Velturno),1.0,1.0
+1058,Les 3 Vallées – Val Thorens/Les Menuires/Méribel/Courchevel,4.6,5.0
+1059,Tignes/Val d'Isère,4.6,5.0
+1060,Serre Chevalier – Briançon/Chantemerle/Villeneuve-la-Salle/Le Monêtier-les-Bains,4.4,5.0
+1061,La Plagne (Paradiski),4.4,5.0
+1062,Les 2 Alpes,4.3,5.0
+1063,Saint-Lary-Soulan,4.2,5.0
+1064,Alpe d'Huez,4.2,5.0
+1065,Megève/Saint-Gervais,4.1,5.0
+1066,Les Arcs/Peisey-Vallandry (Paradiski),4.1,5.0
+1067,Le Grand Massif – Flaine/Les Carroz/Morillon/Samoëns/Sixt,4.1,5.0
+1068, Espace Diamant – Les Saisies/Notre-Dame-de-Bellecombe/Praz sur Arly/Flumet/Crest-Voland,4.1,4.0
+1069, Les Angles,4.0,4.0
+1070, Peyragudes,4.0,4.0
+1071, Les Sybelles – Le Corbier/La Toussuire/Les Bottières/St Colomban des Villards/St Sorlin/St Jean d’Arves,4.0,4.0
+1082, Isola 2000,3.7,4.0
+1083,. Les Houches/Saint-Gervais – Prarion/Bellevue (Chamonix),3.7,3.0
+1084,Brévent/Flégère (Chamonix),3.7,5.0
+1085, Grand Tourmalet/Pic du Midi – La Mongie/Barèges,3.7,4.0
+1086, Auron (Saint-Etienne-de-Tinée),3.6,4.0
+1091,Grands Montets – Argentière (Chamonix),3.5,5.0
+1164,. Les Planards,2.7,1.0
+1165,. Le Tourchet,1.0,1.0
+1166,. Amnéville-Les-Thermes – Snowhall (indoor ski area),1.0,1.0
+1309,Grandvalira – Pas de la Casa/Grau Roig/Soldeu/El Tarter/Canillo/Encamp,4.4,5.0
+1310,. Pal/Arinsal – La Massana (Vallnord),3.7,3.0
+1311,Ordino Arcalís,3.5,5.0
+1312,. Levi,4.3,3.0
+1313,. Ylläs,4.0,3.0
+1314,. Pyhä,4.0,3.0
+1315,. Ruka,4.0,2.0
+1316,. Ounasvaara – Rovaniemi,3.3,2.0
+1394, La Molina/Masella – Alp2500,4.3,4.0
+1395, Baqueira/Beret,4.2,4.0
+1396, Cerler,4.0,4.0
+1397,Formigal,4.0,5.0
+1430, Bansko,4.2,4.0
+1431, Borovets,3.7,4.0
+1432,. Pamporovo,3.6,3.0
+1433,. Vitosha/Aleko – Sofia,3.1,3.0
+1434,. Mechi Chal – Chepelare,3.0,3.0
+1450, Kopaonik,4.2,4.0
+1475, Trysil,4.2,4.0
+1476,Hemsedal,4.0,5.0
+1477,. Hafjell,4.0,3.0
+1478, Kvitfjell,3.9,4.0
+1479,. Myrkdalen,3.8,3.0
+1480,. Geilo,3.7,3.0
+1481,. Hovden,3.7,3.0
+1482,. Skeikampen – Gausdal,3.6,2.0
+1483, Gaustablikk – Rjukan,3.5,4.0
+1484,. Oslo – Tryvann (Skimore),3.3,2.0
+1485,. Gålå,3.3,2.0
+1488,. Beitostølen,3.1,1.0
+1587, Åre,4.0,4.0
+1588,. Hemavan,3.9,3.0
+1589,. Idre Fjäll,3.9,3.0
+1590,. Tandådalen/Hundfjället (Sälen),3.8,3.0
+1591,. Dundret Lapland – Gällivare,3.7,3.0
+1592,. Lindvallen/Högfjället (Sälen),3.7,2.0
+1593,. Vemdalsskalet,3.6,3.0
+1594, Riksgränsen,3.4,4.0
+1595,. Tärnaby,3.3,3.0
+1596, Fjällby – Björkliden,3.3,4.0
+1705,Jasná Nízke Tatry – Chopok,4.0,5.0
+1706,. Tatranská Lomnica,3.5,3.0
+1707,. Donovaly (Park Snow),3.3,2.0
+1708,. Štrbské Pleso,3.1,1.0
+1831,. Wildhaus – Gamserrugg (Toggenburg),3.9,3.0
+1832,. Ehrwalder Wettersteinbahnen – Ehrwald,3.5,2.0
+1833,. Ravna Planina,3.0,2.0
+1834,. Savin Kuk – Žabljak,2.9,3.0
+1835,. SnowWorld Rucphen (indoor ski area),2.7,1.0
+1840, Garmisch-Classic – Garmisch-Partenkirchen,3.8,4.0
+1841,. Arber,3.7,3.0
+1842,. Ofterschwang/Gunzesried – Ofterschwanger Horn,3.7,3.0
+1843, Nebelhorn – Oberstdorf,3.7,4.0
+1844,. Söllereck – Oberstdorf,3.7,2.0
+1845,. Hörnerbahn – Bolsterlang,3.7,3.0
+1846,. Oberjoch (Bad Hindelang) – Iseler,3.7,3.0
+1847,. Sudelfeld – Bayrischzell,3.7,3.0
+1848,. Brauneck – Lenggries/Wegscheid,3.6,3.0
+1849,. Nesselwang – Alpspitze (Alpspitzbahn),3.5,2.0
+1850,. Spitzingsee-Tegernsee,3.5,3.0
+1851,. Feldberg – Seebuck/Grafenmatt/Fahl,3.5,3.0
+1852,. Jenner – Schönau am Königssee,3.4,3.0
+1853,. Fichtelberg – Oberwiesenthal,3.3,2.0
+1854,. Grasgehren – Bolgengrat,3.3,2.0
+1855,. Alpenpark Neuss (indoor ski area),3.3,1.0
+1856,. Mitterdorf (Almberg) – Mitterfirmiansreut,3.3,2.0
+1857,. Balderschwang – Hochschelpen/Riedberger Horn,3.3,3.0
+1858,. Winterberg (Skiliftkarussell),3.3,2.0
+1859,. Götschen – Bischofswiesen,3.2,2.0
+1860,. Snow Dome Bispingen (indoor ski area),3.2,1.0
+1861,. Oberaudorf – Hocheck,3.2,2.0
+1862,. Ochsenkopf,3.2,1.0
+1863,. Kolbensattel – Oberammergau,3.1,1.0
+1864,. Willingen – Ettelsberg,3.1,2.0
+1865,. Pröller Skidreieck (St. Englmar),3.0,2.0
+1866,. Geißkopf – Bischofsmais,3.0,2.0
+1867,. Zugspitze,3.0,3.0
+1868,. Postwiesen Skidorf – Neuastenberg,3.0,2.0
+1869,. Belchen,2.9,2.0
+1870,. Schöneck (Skiwelt),2.9,2.0
+1873,. Steckenberg – Unterammergau,2.8,2.0
+1875,. Todtnauberg,2.7,2.0
+1876,. Altastenberg,2.7,2.0
+1877,. Unternberg (Ruhpolding),2.7,2.0
+1878,. Silberberg – Bodenmais,2.7,1.0
+1879,. Monte Kaolino – Hirschau (sand ski area),1.0,2.0
+1880,. Hohe Bracht – Lennestadt,1.0,2.0
+1881,. Hirtenteich – Essingen-Lauterburg/Aalen,1.0,2.0
+1882,. Bläsiberg – Wiesensteig,1.0,2.0
+1883,. Auf der Rieder – Eschenlohe,1.0,2.0
+1884,. Hirschberglifte – Kreuth,1.0,2.0
+1885,. Wurmberg – Braunlage,2.0,2.0
+1886,. Hundseck – Bühlertallifte,1.0,1.0
+1887,. Beuerberg,1.0,1.0
+1888,. Markbuchen/Predigtstuhl (St. Englmar),1.0,1.0
+1889,. Kapellenberg (St. Englmar),1.0,1.0
+1890,. Grün-Maibrunn (St. Englmar),1.0,1.0
+1891,. Sahnehang,1.0,1.0
+1892,. Hunau – Bödefeld,1.0,1.0
+1893,. Mehliskopf,1.0,1.0
+1894,. Kaltenbronn,1.0,1.0
+1895,. Fahlenscheid – Olpe,1.0,1.0
+1896,. Wissen,1.0,1.0
+1897,. Burbach,1.0,1.0
+1898,. Altenseelbach,1.0,1.0
+1899,. Stinesser Lifte – Fischen i. Allgäu,1.0,1.0
+1900,. Hesselberg,1.0,1.0
+1901,. Reiserhang – Gaißach,1.0,1.0
+1902,. Bottrop (alpincenter) (indoor ski area),1.0,1.0
+1903,. Johanngeorgenstadt – Külliggut,1.0,1.0
+1904,. Klausenlift – Mehlmeisel,1.0,1.0
+1905,. Hempelsberg/Geiersberg – Oberwarmensteinach,1.0,1.0
+1906,. Fleckllift – Warmensteinach,1.0,1.0
+1907,. Bleaml Alm – Neubau (Fichtelberg),1.0,1.0
+1908,. Greising – Deggendorf,1.0,1.0
+1909,. Pfulb – Schopfloch (Lenningen),1.0,1.0
+1910,. Ostalb – Aalen,1.0,1.0
+1911,. Im Salzwinkel – Zainingen (Römerstein),1.0,1.0
+1912,. Halde – Westerheim,1.0,1.0
+1913,. Donnstetten (Römerstein),1.0,1.0
+1914,. Ohlstadt,1.0,1.0
+1915,. Am Ried – Farchant,1.0,1.0
+1916,. Kirburg,1.0,1.0
+1917,. Bischofsreut,1.0,1.0
+1918,. Kirchberglifte – Kreuth,1.0,1.0
+1919,. Oedberg – Gmund-Ostin,1.0,1.0
+1920,. Hanslmühle – Mauern,1.0,1.0
+1921,. Hörnle – Bad Kohlgrub,2.0,1.0
+1922,. Rabenkopf – Oberau,1.0,1.0
+2555,. Jahorina,3.7,3.0
+2556,. Babin Do – Bjelašnica,3.1,3.0
+2571,. Špindlerův Mlýn,3.7,2.0
+2572,. Keilberg (Klínovec),3.3,2.0
+2573,. Lipno,3.2,1.0
+2578,. Jáchymov Střed,1.0,2.0
+2579,. Novako – Boží Dar,1.0,1.0
+2872,. Vogel – Bohinj,3.6,3.0
+2873,. Krvavec,3.5,3.0
+2921, Kolašin 1450/Kolašin 1600,3.6,4.0
+2925,. Szczyrk Mountain Resort,3.6,2.0
+2926,. Białka Tatrzańska – Kotelnica/Kaniówka/Bania,3.3,1.0
+2927,. Szymoszkowa,2.8,1.0
+2928, Kasprowy Wierch – Zakopane,2.8,4.0
+2932,. Hawrań – Jurgów,2.7,2.0
+2933,. Nosal – Bystre,1.0,2.0
+2934,. Harenda,1.0,2.0
+2935,. Witów,1.0,1.0
+2936,. Bialy Potok,1.0,1.0
+3179, Rosa Khutor,3.6,4.0
+3180,. Gazprom Mountain Resort,3.2,2.0
+3184,. Malbun,3.5,3.0
+3243,. SnowWorld Landgraaf (indoor ski area),3.2,1.0
+3244,. SnowWorld Zoetermeer (indoor ski area),2.7,1.0
+3245,. De Uithof (indoor ski area),1.0,1.0
+3246,. Montana Snowcenter (indoor ski area),1.0,1.0
+3285,. Bláfjöll,3.0,2.0
+3393,. Alpine Snowsports – Aldershot (dry slopes),1.0,2.0
+3394,. Chill Factore – Manchester (indoor ski area),1.0,1.0
+3395,. Pendle Ski Club (dry slopes),1.0,1.0
+3396,. Snozone – Milton Keynes (indoor ski area),1.0,1.0
+3397,. The Snow Centre – Hemel Hempstead (indoor ski area),1.0,1.0
+3487,. Snow Arena – Druskininkai (indoor ski area),2.7,1.0
+3498,. Snow Valley – Peer (indoor ski area),1.0,1.0
+3499,. Ice Mountain (indoor ski area),1.0,1.0
+3510,. Hedelands Skicenter,1.0,1.0
