@@ -12,7 +12,9 @@ Our European Ski Resorts project aims to provide travelers with essential inform
 - ⛷️ Does it suit your skill level?
 - 🏅 What do fellow skiers rate it?
 
-Embark on an Alpine Adventure and Find Your Dream Ski Resort! 🚠✨
+### Data 
+Kaggle Dataset: [Ski Resorts World Wide (kaggle.com)](https://www.kaggle.com/datasets/migueldefrutos/ski-resorts-world-wide?resource=download)    
+API: [Weather API - OpenWeatherMap](https://openweathermap.org/api)
 
 
 
