@@ -19,6 +19,11 @@ API: [Weather API - OpenWeatherMap](https://openweathermap.org/api)
 ### Data Management
 In our project, we ensured efficient data handling by meticulously organizing and managing our datasets. We cleaned our dataset and structured it into CSV files, optimizing it for further analysis. Additionally, we seamlessly integrated supplementary data retrieved from our API into our project's workflow. Utilizing a database management system, we stored our data securely, enabling seamless access and retrieval.
 
+### Entity-Relationship Diagram (ERD)
+
+[ERD Image](https://github.com/BootcampCoderTF/Nordic-Navigators/blob/main/Resources/QuickDBD.png?raw=true)
+The ERD illustrates the relationships between different entities and tables within our database, providing a comprehensive overview of how data is organized and interconnected.
+
 ### Visualizations
 Embark on a visual journey with our engaging features:
 
