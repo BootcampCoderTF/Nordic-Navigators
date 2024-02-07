@@ -33,7 +33,7 @@ Embark on a visual journey with our engaging features:
 - User-Friendly Drop-down Menu: Discover the top 10 ski resorts based on various criteria, enhancing your decision-making process.
 - Dynamic Bar Chart: Delve into the distribution of beginner, intermediate, and difficult slopes across different resorts with our visually engaging bar chart.
 
-
+### Data Ethics
 
 
 
