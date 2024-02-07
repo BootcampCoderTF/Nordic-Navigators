@@ -1,4 +1,4 @@
-## 🎿 Explore European Ski Resorts 🏔️
+# 🎿 Explore European Ski Resorts 🏔️
 
 Discover Your Perfect Ski Getaway in Europe!
 
