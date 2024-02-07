@@ -20,8 +20,11 @@ API: [Weather API - OpenWeatherMap](https://openweathermap.org/api)
 In our project, we ensured efficient data handling by meticulously organizing and managing our datasets. We cleaned our dataset and structured it into CSV files, optimizing it for further analysis. Additionally, we seamlessly integrated supplementary data retrieved from our API into our project's workflow. Utilizing a database management system, we stored our data securely, enabling seamless access and retrieval.
 
 ### Visualizations
-Our project boasts a diverse array of visualizations designed to enrich user experience and facilitate exploration. At the forefront is our interactive map powered by Leaflet, which showcases the geographical locations of ski resorts across Europe. Each resort marker provides insightful pop-ups containing pertinent information, enriching the user's understanding of each destination. Furthermore, our user-friendly drop-down menu allows users to explore the top 10 ski resorts based on various criteria, enhancing their decision-making process. Complementing these features is a visually engaging bar chart depicting the distribution of beginner, intermediate, and difficult slopes across different resorts. 
+Embark on a visual journey with our engaging features:
 
+- Interactive Map: Explore the geographical locations of ski resorts across Europe with our Leaflet-powered map. Each resort marker provides insightful pop-ups, enriching your understanding of each destination.
+- User-Friendly Drop-down Menu: Discover the top 10 ski resorts based on various criteria, enhancing your decision-making process.
+- Dynamic Bar Chart: Delve into the distribution of beginner, intermediate, and difficult slopes across different resorts with our visually engaging bar chart.
 
 
 
