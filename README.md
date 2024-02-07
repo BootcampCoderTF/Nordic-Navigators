@@ -3,7 +3,7 @@
 Discover Your Perfect Ski Getaway in Europe!
 
 ### Project Overview
-Our project focuses on European ski resorts, aiding travelers in choosing their ideal ski destinations. We aim to provide users with essential information, including budget considerations, weather forecasts, skill level compatibility, and ratings. Through interactive features and visualizations, users can explore top-rated resorts and budget-friendly options, ensuring memorable ski experiences.
+Our European Ski Resorts project aims to provide travelers with essential information for planning their ideal skiing adventure in Europe. By offering insights into various ski destinations, budget-friendly options, weather forecasts, and resort ratings, we empower users to make informed decisions about their ski trips. With engaging visualizations, our platform enables users to explore the diverse landscape of European skiing and discover resorts that match their preferences and skill levels. 
 
 ### Questions to Answer:
 - 🌟 Where's the ultimate ski spot in Europe?
