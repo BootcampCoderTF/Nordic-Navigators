@@ -16,6 +16,17 @@ Our European Ski Resorts project aims to provide travelers with essential inform
 Kaggle Dataset: [Ski Resorts World Wide (kaggle.com)](https://www.kaggle.com/datasets/migueldefrutos/ski-resorts-world-wide?resource=download)    
 API: [Weather API - OpenWeatherMap](https://openweathermap.org/api)
 
+### Data Management
+In our project, we ensured efficient data handling by meticulously organizing and managing our datasets. We cleaned our dataset and structured it into CSV files, optimizing it for further analysis. Additionally, we seamlessly integrated supplementary data retrieved from our API into our project's workflow. Utilizing a database management system, we stored our data securely, enabling seamless access and retrieval.
+
+### Visualizations
+Our project boasts a diverse array of visualizations designed to enrich user experience and facilitate exploration. At the forefront is our interactive map powered by Leaflet, which showcases the geographical locations of ski resorts across Europe. Each resort marker provides insightful pop-ups containing pertinent information, enriching the user's understanding of each destination. Furthermore, our user-friendly drop-down menu allows users to explore the top 10 ski resorts based on various criteria, enhancing their decision-making process. Complementing these features is a visually engaging bar chart depicting the distribution of beginner, intermediate, and difficult slopes across different resorts. 
+
+
+
+
+
+
 
 
 
