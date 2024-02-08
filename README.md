@@ -12,21 +12,28 @@ Our European Ski Resorts project aims to provide travelers with essential inform
 - ⛷️ Does it suit your skill level?
 - 🏅 What do fellow skiers rate it?
 
-### Data 
+### Data
 Kaggle Dataset: [Ski Resorts World Wide (kaggle.com)](https://www.kaggle.com/datasets/migueldefrutos/ski-resorts-world-wide?resource=download)    
 API: [Weather API - OpenWeatherMap](https://openweathermap.org/api)
 
-### Data Management
+### Data Management 📋
 In our project, we ensured efficient data handling by meticulously organizing and managing our datasets. We cleaned our dataset and structured it into CSV files, optimizing it for further analysis. Additionally, we seamlessly integrated supplementary data retrieved from our API into our project's workflow. Utilizing a database management system, we stored our data securely, enabling seamless access and retrieval.
 
-### Visualizations
+## Entity-Relationship Diagram (ERD) 📈
+
+![ERD Image](https://github.com/BootcampCoderTF/Nordic-Navigators/blob/main/Resources/QuickDBD.png?raw=true)
+
+The ERD illustrates the relationships between different entities and tables within our database, providing a comprehensive overview of how data is organized and interconnected.
+
+
+### Visualizations 📊
 Embark on a visual journey with our engaging features:
 
 - Interactive Map: Explore the geographical locations of ski resorts across Europe with our Leaflet-powered map. Each resort marker provides insightful pop-ups, enriching your understanding of each destination.
 - User-Friendly Drop-down Menu: Discover the top 10 ski resorts based on various criteria, enhancing your decision-making process.
 - Dynamic Bar Chart: Delve into the distribution of beginner, intermediate, and difficult slopes across different resorts with our visually engaging bar chart.
 
-
+### Data Ethics
 
 
 
