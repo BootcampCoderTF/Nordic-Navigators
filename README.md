@@ -30,7 +30,7 @@ Embark on a visual journey with our engaging features:
 - Dynamic Bar Chart: Delve into the distribution of beginner, intermediate, and difficult slopes across different resorts with our visually engaging bar chart.
 
 ### Usage
-- Clone the repository to your local machine. In your Terminal, type git clone https://github.com/BootcampCoderTF/Nordic-Navigators.git
+- Clone the repository to your local machine. In your Terminal, type ```git clone https://github.com/BootcampCoderTF/Nordic-Navigators.git```
 
 - Open the HTML in Google Chrome.
 - 
