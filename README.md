@@ -13,7 +13,7 @@ Our European Ski Resorts project aims to provide travelers with essential inform
 - 🏅 What do fellow skiers rate it?
 
 ### Data Management 📋
-In our project, we ensured efficient data handling by meticulously organizing and managing our datasets. We cleaned our dataset and structured it into CSV files, optimizing it for further analysis. Additionally, we seamlessly integrated supplementary data retrieved from our API into our project's workflow. Utilizing a database management system, we stored our data securely, enabling seamless access and retrieval.
+In our project, we ensured efficient data handling by organizing and managing our datasets. We cleaned our dataset and structured it into CSV files, optimizing it for further analysis. Additionally, we integrated supplementary data retrieved from our API into our project's workflow. Utilizing SQLite, we stored our data, enabling seamless access and retrieval.
 
 ## Entity-Relationship Diagram (ERD) 📈
 
@@ -30,7 +30,8 @@ Embark on a visual journey with our engaging features:
 - Dynamic Bar Chart: Delve into the distribution of beginner, intermediate, and difficult slopes across different resorts with our visually engaging bar chart.
 
 ### Usage
-- Clone the repository to your local machine. In your Terminal, type 'git clone https://github.com/BootcampCoderTF/Nordic-Navigators.git'.
+- Clone the repository to your local machine. In your Terminal, type git clone https://github.com/BootcampCoderTF/Nordic-Navigators.git
+
 - Open the HTML in Google Chrome.
 - 
 - 
