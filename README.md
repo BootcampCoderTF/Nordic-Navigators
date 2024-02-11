@@ -31,7 +31,6 @@ Embark on a visual journey with our engaging features:
 
 ### Usage
 - Clone the repository to your local machine. In your Terminal, type ```git clone https://github.com/BootcampCoderTF/Nordic-Navigators.git```
-
 - Open the HTML in Google Chrome.
 - 
 - 
