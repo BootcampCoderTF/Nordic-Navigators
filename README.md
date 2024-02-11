@@ -12,6 +12,10 @@ Our European Ski Resorts project aims to provide travelers with essential inform
 - ⛷️ Does it suit your skill level?
 - 🏅 What do fellow skiers rate it?
 
+### Data
+Kaggle Dataset: [Ski Resorts World Wide (kaggle.com)](https://www.kaggle.com/datasets/migueldefrutos/ski-resorts-world-wide?resource=download)    
+API: [Weather API - OpenWeatherMap](https://openweathermap.org/api)
+
 ### Data Management 📋
 In our project, we ensured efficient data handling by organizing and managing our datasets. We cleaned our dataset and structured it into CSV files, optimizing it for further analysis. Additionally, we integrated supplementary data retrieved from our API into our project's workflow. Utilizing SQLite, we stored our data, enabling seamless access and retrieval.
 
@@ -20,7 +24,6 @@ In our project, we ensured efficient data handling by organizing and managing ou
 ![ERD Image](https://github.com/BootcampCoderTF/Nordic-Navigators/blob/main/Resources/QuickDBD.png?raw=true)
 
 The ERD illustrates the relationships between different entities and tables within our database, providing a comprehensive overview of how data is organized and interconnected.
-
 
 ### Visualizations 📊
 Embark on a visual journey with our engaging features:
@@ -38,22 +41,6 @@ Embark on a visual journey with our engaging features:
 
 ### Data Ethics
 We have maintained ethical integrity by utilizing datasets sourced from publicly available information, predominantly from www.skiresort.info. The data we have employed does not contain any information on individuals, nor does it infringe on privacy laws. It is readily accessible for public viewing and use. Any externally sourced code will be appropriately referenced, as outlined below. All other aspects of the project are original.
-
-### Data
-Kaggle Dataset: [Ski Resorts World Wide (kaggle.com)](https://www.kaggle.com/datasets/migueldefrutos/ski-resorts-world-wide?resource=download)    
-API: [Weather API - OpenWeatherMap](https://openweathermap.org/api)
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Nordic Navigators (Collaborators)
 
