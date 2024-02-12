@@ -1,0 +1,88 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+
+  /* Style for the jumbotron */
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+/* Style for the dropdown container */
+.container {
+  margin-top: 20px;
+}
+
+/* Style for the dropdown panel */
+.well {
+  background-color: #f8f9fa;
+  padding: 10px;
+}
+
+/* Style for the panel containing the results */
+.panel {
+  margin-top: 20px;
+}
+
+/* Style for the table */
+.resort-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Style for table headers */
+.resort-table th {
+  background-color: #343a40;
+  color: #fff;
+  padding: 8px;
+}
+
+/* Style for table rows */
+.resort-table td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Style for even table rows */
+.resort-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Style for table hover effect */
+.resort-table tbody tr:hover {
+  background-color: #ddd;
+}
+
+/* Add the provided CSS styling for the table */
+#sample-metadata table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #ddd;
+}
+
+#sample-metadata th, #sample-metadata td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+#sample-metadata th {
+  background-color: #000; /* Change background color to black */
+  color: #fff; /* Change text color to white */
+}
+
+#sample-metadata tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#sample-metadata tbody tr:hover {
+  background-color: #ddd;
+}
