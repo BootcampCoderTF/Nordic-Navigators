@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>leaflet-map-csv</title>
+  <title>Resort Map</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -38,7 +38,7 @@
   <!-- Insert HTML division tag to layout the map -->
   <div id="map"></div>
 
-  <!-- Insert Javascript (.js) code to create the map -->
+  <!-- Insert Javascript code to create the map -->
   <script>
 
   // Set up initial map center and zoom level
@@ -49,7 +49,7 @@
     tap: false
   });
 
-  /* Control panel to display map layers */
+  // Control panel to display map layers
   var controlLayers = L.control.layers( null, null, {
     position: "topright",
     collapsed: false
@@ -74,7 +74,7 @@
       var row = data[i];
 
       markers.addLayer(L.marker([row.Latitude, row.Longitude])
-        .bindPopup(row.Country));
+        .bindPopup('Resort Name: ' + row.Resort_Name + '</br>' + 'State/Province: ' + row.State_Province + '</br>' + 'Country: ' + row.Country));
       map.addLayer(markers);
     }
 
