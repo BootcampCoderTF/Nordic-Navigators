@@ -7,17 +7,15 @@ Our European Ski Resorts project aims to provide travelers with essential inform
 
 ### Questions to Answer:
 - 🌟 Where's the ultimate ski spot in Europe?
-- 💰 Which resorts match your budget?
-- 🌦️ What's the weather forecast on the slopes?
-- ⛷️ Does it suit your skill level?
+- 💰 What is the comparative pricing of resorts across different countries?
+- ⛷️ How does the distance of the ski slopes compare to its price?
 - 🏅 What do fellow skiers rate it?
 
 ### Data
 Kaggle Dataset: [Ski Resorts World Wide (kaggle.com)](https://www.kaggle.com/datasets/migueldefrutos/ski-resorts-world-wide?resource=download)    
-API: [Weather API - OpenWeatherMap](https://openweathermap.org/api)
 
 ### Data Management 📋
-In our project, we ensured efficient data handling by organizing and managing our datasets. We cleaned our dataset and structured it into CSV files, optimizing it for further analysis. Additionally, we integrated supplementary data retrieved from our API into our project's workflow. Utilizing SQLite, we stored our data, enabling seamless access and retrieval.
+In our project, we ensured efficient data handling by organizing and managing our datasets. We cleaned our dataset and structured it into CSV files, optimizing it for further analysis.
 
 ## Entity-Relationship Diagram (ERD) 📈
 
@@ -43,9 +41,10 @@ We have maintained ethical integrity by utilizing datasets sourced from publicly
 
 ## Nordic Navigators (Collaborators)
 
-- [Ammarah](https://github.com/Amarah010)
-- [Nana](https://github.com/Mendev95)
-- [Safa](https://github.com/Safa297)
-- [Sunil](https://github.com/SunilMalhi)
-- [Tafadzwa](https://github.com/BootcampCoderTF)
+- [Ammarah Ahmad](https://github.com/Amarah010)
+- [Safa Ali](https://github.com/Safa297)
+- [Nana Afranie Ampadu Mensah](https://github.com/Mendev95)
+- [Tafadzwa Fararira](https://github.com/BootcampCoderTF)
+- [Sunil Malhi](https://github.com/SunilMalhi)
+  
 
