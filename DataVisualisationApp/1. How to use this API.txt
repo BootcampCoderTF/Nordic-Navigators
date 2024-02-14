@@ -1,0 +1,26 @@
+# Nordic-Navigators Dashboard
+
+## Overview
+
+This project contains an index.html file that serves as the main dashboard for the Nordic-Navigators application.
+
+## Usage
+
+To view the dashboard, follow these steps:
+
+1. Open Git Bash or any terminal of your choice.
+
+2. Navigate to the directory containing the project files using the `cd` command.
+
+3. Start a local server by running the following command: python -m http.server 8000
+This command will start a web server on port 8000.
+
+4. Open your web browser and go to `http://localhost:8000/index.html` to view the dashboard.
+
+## Dependencies
+
+- Python 3.x
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
