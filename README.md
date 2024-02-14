@@ -35,9 +35,8 @@ Embark on a visual journey with our engaging features:
 ### Usage
 - Clone the repository to your local machine. In your Terminal, type ```git clone https://github.com/BootcampCoderTF/Nordic-Navigators.git```
 - Open the HTML in Google Chrome.
-- 
-- 
-- 
+- Click on markers on the leaflet map to see the name of ski resorts in that country.
+- Use drop down to filter resorts 
 
 ### Data Ethics
 We have maintained ethical integrity by utilizing datasets sourced from publicly available information, predominantly from www.skiresort.info. The data we have employed does not contain any information on individuals, nor does it infringe on privacy laws. It is readily accessible for public viewing and use. Any externally sourced code will be appropriately referenced, as outlined below. All other aspects of the project are original.
