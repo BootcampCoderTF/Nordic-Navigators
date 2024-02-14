@@ -96,7 +96,6 @@ d3.json('http://localhost:8000/static/data/locationsPriced.json')
     var option3 = select.append('option');
     option3.text('Top 10 Countries with Most Resorts').attr('value', 'top_countries');
   })
-  .catch(error => console.error('Error loading JSON data:', error));
 
 // Function to handle dropdown change event
 function optionChanged(option) {
@@ -113,7 +112,7 @@ function optionChanged(option) {
     .catch(error => console.error('Error loading JSON data:', error));
 }
 
-// Function to format the price in £00.00 format
+// Function to format the price to two decimal points format
 function formatPrice(price) {
   return '£' + price.toFixed(2);
 }
