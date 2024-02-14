@@ -7,7 +7,7 @@ Our European Ski Resorts project aims to provide travelers with essential inform
 
 ### Questions to Answer:
 - 🌟 Where's the ultimate ski spot in Europe?
-- 💰 Which resorts match your budget?
+- 💰 What is the comparative pricing of resorts across different countries?
 - ⛷️ How does the distance of the ski slopes compare to its price?
 - 🏅 What do fellow skiers rate it?
 
